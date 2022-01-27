@@ -1,0 +1,4 @@
+git add . = adiciona todos os arquivos local
+git status = mostra os status do repositório
+git commit -m "mensagem" = cria um commit para o arquivo com um comentário
+git push origin main(branch) = envia todos os commits local para a nuvem
